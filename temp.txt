@@ -1,0 +1,2 @@
+Second file.
+Now we are going to unstaged using reset Head 

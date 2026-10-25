@@ -10,3 +10,5 @@ This is line added for challenge.
 This is another line for selective staging.
 
 This is a conflicting change from the current branch. This is a conflicting change 2 from the current branch.
+
+CONFLICT_DEMO=original

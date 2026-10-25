@@ -7,3 +7,7 @@ again updating from b3 branch
 change form b1
 
 line fromm main
+
+
+Changes made for advanced unstaging challenge.
+This is another change in b2_file.txt.

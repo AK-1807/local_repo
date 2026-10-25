@@ -5,3 +5,6 @@ this is the first file.
 Adding new line via Github
 
 updaing from b1 branch 
+
+This is line added for challenge.
+This is another line for selective staging.
